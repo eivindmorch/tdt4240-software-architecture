@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dropbox\EivindDropbox\Koding\Android\example21\app\libs\sheep.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06913034b6996d14902392c28e15d16ed434490a">
+        <dex dex="D:\Dropbox\EivindDropbox\Koding\Android\example21\app\build\intermediates\pre-dexed\debug\sheep-229befebd03a9f29cf380c97a9b412c00435b125.jar" />
+    </item>
+
+</items>

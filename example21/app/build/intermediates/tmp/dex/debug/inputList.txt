@@ -1,0 +1,2 @@
+D:\Dropbox\EivindDropbox\Koding\Android\example21\app\build\intermediates\classes\debug
+D:\Dropbox\EivindDropbox\Koding\Android\example21\app\build\intermediates\pre-dexed\debug\sheep-229befebd03a9f29cf380c97a9b412c00435b125.jar

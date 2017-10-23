@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sheep2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sheep20Playground2/app/libs/sheep2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

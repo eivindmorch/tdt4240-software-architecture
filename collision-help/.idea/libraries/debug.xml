@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sheep20Playground2/app/build/intermediates/pre-dexed/debug/sheep2.0-0dd30fe2e49ba53bc7dc295c204849bba6f2fdd2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sheep20Playground2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-66a71f2ecc0d45bcb82eb5e95521b33a73effaf6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sheep20Playground2/app/build/intermediates/pre-dexed/debug/classes-3d0f1b49421db45b6c88cc3e5c16081715f45767.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sheep20Playground2/app/build/intermediates/pre-dexed/debug/classes-b9cfa27e1eec3d734f0f02b4b87acdf0f8cbc816.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sheep20Playground2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5a93ad3371454fd761b7866ab0d2f0870d9712a5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
